@@ -6,8 +6,8 @@ using UnityEngine.Android;
 public class BirdJump : MonoBehaviour
 {
     Rigidbody2D rb;
-    public float JumpPower;
 
+    public float JumpPower;
 
     void Start()
     {
